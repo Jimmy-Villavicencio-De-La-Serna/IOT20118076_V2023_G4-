@@ -8,7 +8,7 @@ Repositorio para el G4 de IoT - 2023-0
 - Villavicencio De La Serna, Jimmy Manyear - 20200038
 - Villanueva Monrroy, Xavier Angel - 20200235
 
-# Link del circuito en Tinkercad
-https://www.tinkercad.com/things/cc8oQFNAyAt-mighty-blorr/editel?sharecode=zS3zyL9PpFF6CBdPhqbYHh4UQOQw2hr3uxRZ78-Vnzc
+# Link del circuito en Wowki
+https://wokwi.com/projects/357757531969040385
 
 
