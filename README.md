@@ -12,3 +12,5 @@ Repositorio para el G4 de IoT - 2023-0
 https://wokwi.com/projects/357757531969040385
 # Link del circuito en Wowki conectado a ThingSpeak
 https://wokwi.com/projects/357769562109795329
+# Link del thingSpeak
+https://thingspeak.com/channels/2045845
