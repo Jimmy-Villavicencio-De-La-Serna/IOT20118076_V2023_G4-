@@ -1,0 +1,21 @@
+[
+    {
+        "id": "06e426812cca8635",
+        "type": "function",
+        "z": "fbf2d8e0.c116f8",
+        "name": "function",
+        "func": "var partfina = msg.payload.split(',')[0];\nmsg.payload = partfina;\nif (partfina == 1) {\n    msg.payload = true\n}\nelse {\n    msg.payload = false\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 380,
+        "y": 360,
+        "wires": [
+            [
+                "4efb573480ad0606"
+            ]
+        ]
+    }
+]
